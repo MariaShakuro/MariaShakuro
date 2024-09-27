@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on OperationalSystems
 - 🌱 I’m currently learning **DataBase,Algorithms**
 - 📫 How to reach me:  **msh479859@gmail.com**
 
