@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on OperationalSystems
-- 🌱 I’m currently learning **DataBase,Algorithms**
+- 🔭 I’m currently working on new project
+-  🌱 I’m currently learning **DataBase,Algorithms**
 - 📫 How to reach me:  **msh479859@gmail.com**
 
 
